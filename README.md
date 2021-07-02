@@ -16,7 +16,9 @@
     ├── resnet50.py
     ├── predict.py
     ├── README.md
+    ├── models.py
     ├── Training_AICovidVN_notebook.ipynb
+    ├── Training_AICovidVN_resnetish18_notebook.ipynb
     └── .gitignore
 ```
 ## 2. Install packages:
